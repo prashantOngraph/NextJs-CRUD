@@ -2,6 +2,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+env.local file will be needed
+Following Id will be required for next JS auth (using GitHub)
+
+GITHUB_CLIENT_ID=
+GITHUB_SECRET=
+SECRET=ILOVEINDIA
+
 First, run the development server:
 
 ```bash
